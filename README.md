@@ -2,8 +2,8 @@
 
 Multiple-choice trivia application built with JavaScript and the React framework.
 
-## 🔗 Live Demo
-[Trivia](https://trivia-arw.netlify.app)
+## 🔗 Live
+* [Trivia](https://trivia-arw.netlify.app)
 
 ## 🔧 Install to Your Desktop
 1. Download the ZIP folder
