@@ -12,5 +12,5 @@ Multiple-choice trivia application built with JavaScript and the React framework
 ## 👩🏻‍💻 Navigation
 
 ## ⚡️Technologies Used
-*JavaScript
-*React
+* JavaScript
+* React
