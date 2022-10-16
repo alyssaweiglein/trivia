@@ -2,8 +2,8 @@
 
 Multiple-choice trivia application built with JavaScript and the React framework.
 
-## ⚙️ Installation
+## 🔧 Installation
 
 ## 👩🏻‍💻 Navigation
 
-## 👾 Technologies Used
+## ⚡️Technologies Used
