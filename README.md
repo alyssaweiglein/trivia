@@ -4,7 +4,7 @@ Multiple-choice trivia application built with JavaScript and the React framework
 ## 🔗 Live
 [Trivia](https://trivia-arw.netlify.app)
 
-## 🔧 Install to Your Desktop
+## 🔧 Installion
 1. Download the ZIP folder
 2. Unzip the folder
 3. Install [NodeJS](https://nodejs.org/en/download/)
