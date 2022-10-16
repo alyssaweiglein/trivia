@@ -10,12 +10,14 @@ Multiple-choice trivia application built with JavaScript and the React framework
 5. From the command line, enter:
    ```
    npm install
-   ```<sup>to install node package manager, unless it's already installed on your computer</sup>
+   ```
+   <sub>to install node package manager, unless it's already installed on your computer</sub>
    
    then:
    ```
    npm start
-   ```<sup>to start the React server and application</sup>
+   ```
+   <sub>to start the React server and application</sub>
 
 ## 👩🏻‍💻 Navigation
 
