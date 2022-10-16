@@ -11,13 +11,13 @@ Multiple-choice trivia application built with JavaScript and the React framework
    ```
    npm install
    ```
-   <sub>to install node package manager, unless it's already installed on your computer</sub>
+   *to install node package manager, unless it's already installed on your computer*
    
    then:
    ```
    npm start
    ```
-   <sub>to start the React server and application</sub>
+   *to start the React server and application*
 
 ## 👩🏻‍💻 Navigation
 
