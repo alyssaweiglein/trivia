@@ -50,7 +50,7 @@ export default function App() {
 	];
 
   // set bubble colors green
-  function changeStyleRight() {
+  function correctAnswer() {
     if (currentQuestion === 0) {
       var bubble1 = document.getElementById("bubble1");
       bubble1.style.backgroundColor = "#7EC631";
@@ -74,7 +74,7 @@ export default function App() {
   }
 
   // set bubble colors red
-  function changeStyleWrong() {
+  function incorrectAnswer() {
     if (currentQuestion === 0) {
       var bubble1 = document.getElementById("bubble1");
       bubble1.style.backgroundColor = "#D54E31";
@@ -125,11 +125,11 @@ export default function App() {
     // add score + 1 and change bubble to green if correct answer is selected
     if(isCorrect === true) {
       setScore(score + 1);
-			changeStyleRight();
+			correctAnswer();
 
-			// change bubble to red if wrong answer is selected
+		// change bubble to red if wrong answer is selected
     } else {
-      changeStyleWrong();
+      incorrectAnswer();
     }
 
     // show next question until the end, then show score
@@ -152,7 +152,7 @@ export default function App() {
 	return (
 		<div className='app'>
 			{/* header  */}
-      <h1>Quiz Title</h1>
+      <h1>Trivia</h1>
 			
 			<div className='card'>
 			{/* show final-results or show questions */}
