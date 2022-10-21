@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 export default function App() {
+	
 	const questions = [
 		{
 			questionText: 'Question 1',
@@ -152,7 +153,7 @@ export default function App() {
 	return (
 		<div className='app'>
 			{/* header  */}
-      <h1>Trivia</h1>
+      <h1>Trivia test</h1>
 			
 			<div className='card'>
 			{/* show final-results or show questions */}
