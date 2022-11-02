@@ -1,6 +1,6 @@
 # Trivia
 <p align="center">
-  <img src="trvia.gif" />  
+  <img src="trivia.gif"/>
 </p>
 Multiple-choice trivia application built with JavaScript and the React framework.
 
