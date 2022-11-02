@@ -153,7 +153,7 @@ export default function App() {
 	return (
 		<div className='app'>
 			{/* header  */}
-      <h1>Trivia test</h1>
+      <h1>Trivia</h1>
 			
 			<div className='card'>
 			{/* show final-results or show questions */}
@@ -201,14 +201,14 @@ export default function App() {
 			</>
 			)}
 			
-				{/* current score markers */}
-				<div class="bubble-container">
+			{/* current score markers */}
+			<div class="bubble-container">
 					<div class="bubble" id="bubble1"></div>
 					<div class="bubble" id="bubble2"></div>
 					<div class="bubble" id="bubble3"></div>
 					<div class="bubble" id="bubble4"></div>
 					<div class="bubble" id="bubble5"></div>
-				</div>	
+			</div>	
 
 			</div>
 		</div>

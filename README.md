@@ -1,4 +1,7 @@
 # Trivia
+<p align="center">
+  <img src="trvia.gif" />  
+</p>
 Multiple-choice trivia application built with JavaScript and the React framework.
 
 ## 🔗 Live
